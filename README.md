@@ -58,10 +58,6 @@ arabic-platform-react/
 - **Smooth Animations** - Transitions and hover effects
 - **Type-Safe** - Full TypeScript support
 
-## 🌐 Development Server
-
-The development server runs at: **http://localhost:5173/**
-
 ## 🎨 Styling
 
 The project uses Tailwind CSS v4 with the new `@tailwindcss/postcss` plugin.
