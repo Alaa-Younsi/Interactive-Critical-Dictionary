@@ -58,25 +58,6 @@ arabic-platform-react/
 - **Smooth Animations** - Transitions and hover effects
 - **Type-Safe** - Full TypeScript support
 
-## 📦 Installation & Usage
-
-```bash
-# Navigate to project directory
-cd arabic-platform-react
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
-```
-
 ## 🌐 Development Server
 
 The development server runs at: **http://localhost:5173/**
