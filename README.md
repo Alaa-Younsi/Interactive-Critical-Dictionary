@@ -97,4 +97,4 @@ The project uses Tailwind CSS v4 with the new `@tailwindcss/postcss` plugin.
 
 ## 📄 License
 
-All Rights Reserved
+Copyright (c) 2025 Alaa Younsi. All rights reserved.
